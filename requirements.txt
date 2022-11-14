@@ -10,3 +10,4 @@ django-ace
 pyyaml
 django-login-required-middleware
 gunicorn==20.0.4
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
