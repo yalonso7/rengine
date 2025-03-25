@@ -9,4 +9,4 @@ djangorestframework-datatables
 django-ace
 pyyaml
 django-login-required-middleware
-gunicorn==20.0.4
+gunicorn==23.0.0
